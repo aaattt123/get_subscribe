@@ -64,3 +64,4 @@
 [2025-01-29 20:38:17] [WARN] 获取 v2ray 订阅失败：https://fs.v2rayse.com/share/20250129/tqzyth2spr.txt - 524
 [2025-01-29 20:39:48] [WARN] 获取 clash 订阅失败：https://fs.v2rayse.com/share/20250129/wombk3fgoi.yaml - 500
 [2025-01-29 20:39:48] [WARN] 未能获取新的更新内容
+[2025-01-30 09:23:07] [INFO] 更新成功：['v2ray: 200', 'clash: 200']
